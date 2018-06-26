@@ -1,0 +1,3 @@
+[submodule "vm-guest-agent"]
+	path = vm-guest-agent
+	url = git@github.com:UranusBlockStack/ovirt-guest-agent.git
